@@ -9,4 +9,4 @@ Inspectable items. Mainly developed in C++.
       but it also gives artist and designers the opportunity to hide easter eggs, hidden secrets or clues behind props that would normally be just decoration.
       Controls:
       E to Inspect items.
-      Right click to Stop Inspecting items.
+          Right click to Stop Inspecting items.
